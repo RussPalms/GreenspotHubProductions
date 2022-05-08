@@ -39,9 +39,9 @@ const Login = () => {
 	return (
 		<>
 			<LoginContainer>
-				<LoginButton onClick={() => signInWithGithub()}>
-					Sign in with GitHub
-				</LoginButton>
+				{/* <LoginButton onClick={() => signInWithGithub()}> */}
+				Sign in with GitHub
+				{/* </LoginButton> */}
 			</LoginContainer>
 		</>
 	);
