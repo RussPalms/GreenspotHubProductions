@@ -3,9 +3,7 @@ import Layout from "components/Layout";
 const connect = () => {
 	return (
 		<>
-			<Layout>
-                <Connect />
-            </Layout>
+			<Layout>{/* <Connect /> */}</Layout>
 		</>
 	);
 };
