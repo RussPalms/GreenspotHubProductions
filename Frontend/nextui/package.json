@@ -1,0 +1,44 @@
+{
+	"name": "nextui",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start",
+		"lint": "next lint"
+	},
+	"dependencies": {
+		"@heroicons/react": "^1.0.4",
+		"@loadable/component": "^5.15.0",
+		"@sendgrid/mail": "^7.4.6",
+		"@svgr/webpack": "^5.5.0",
+		"babel-plugin-inline-react-svg": "^2.0.1",
+		"babel-plugin-styled-components": "^1.13.2",
+		"babel-preset-next": "^1.4.0",
+		"file-loader": "^6.2.0",
+		"firebase": "^9.0.2",
+		"next": "11.1.0",
+		"next-compose": "^0.0.2",
+		"next-compose-plugins": "^2.2.1",
+		"next-images": "^1.8.1",
+		"next-optimized-images": "^2.6.2",
+		"next-videos": "1.4.0",
+		"nprogress": "^0.2.0",
+		"react": "17.0.2",
+		"react-dom": "17.0.2",
+		"react-firebase-hooks": "^3.0.4",
+		"react-flip-move": "^3.0.4",
+		"react-icons": "^4.2.0",
+		"react-player": "^2.9.0",
+		"react-scroll": "^1.8.3",
+		"recompose": "^0.30.0",
+		"smoothscroll-polyfill": "^0.4.4",
+		"styled-components": "^5.3.1",
+		"url-loader": "^4.1.1"
+	},
+	"devDependencies": {
+		"eslint": "7.32.0",
+		"eslint-config-next": "11.1.0"
+	}
+}
